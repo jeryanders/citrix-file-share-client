@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "registry:dt/chalk#0.4.0+20160317120654",
+    "lodash": "registry:dt/lodash#4.14.0+20160802150749",
+    "node-azure/azure": "registry:dt/node-azure/azure#0.9.16+20160316155526"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20160802155038",
+    "request": "registry:dt/request#0.0.0+20160726020908"
+  }
+}

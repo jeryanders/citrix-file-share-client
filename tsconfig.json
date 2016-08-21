@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "js",
+        "module": "commonjs",
+        "sourceMap": true,
+        "watch": true,
+        "noImplicitAny": true
+    },
+    "files": [
+        "main.ts",
+        "typings/index.d.ts"
+    ]
+}
